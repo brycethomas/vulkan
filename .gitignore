@@ -1,2 +1,4 @@
 *~
 HelloTriangle/VulkanTest
+shaders/frag.spv
+shaders/vert.spv
